@@ -2,30 +2,11 @@
 
 This is a simple demo of how to create a blindtest using Spotify and React.
 
-## Getting started
+## About
 
-First, fork / clone the repository.
+I fork this depository from [Clement Escolano](https://github.com/clement-escolano) from the [Theodo](https://www.theodo.fr/) Code Dojo.
 
-```bash
-git clone git@github.com:clement-escolano/blindtest-spotify.git
-cd blindtest-spotify
-```
+The goal there is to discover ReactJS and the Spotify API and use them. 
+We use React Component state and props in it.
 
-Then, install the dependencies.
 
-```bash
-npm install # or alternatively: yarn install
-```
-
-To launch the app in development mode:
-
-```bash
-npm start
-```
-
-To deploy the app to Github pages, modify the `homepage` key in `package.json` to match your account and project.
-Then, launch the command:
-
-```bash
-npm run deploy
-```
